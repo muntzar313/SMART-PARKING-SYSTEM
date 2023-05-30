@@ -16,3 +16,6 @@ Smart Car Parking System is an intelligent parking system that assists drivers i
   5. Default pins
   6. Ground pins
  
+![image](https://github.com/muntzar313/SMART-PARKING-SYSTEM/assets/83008094/cd24ecc8-dbd5-4319-9d11-b1753b1999a7)
+![image](https://github.com/muntzar313/SMART-PARKING-SYSTEM/assets/83008094/feac50a0-de20-48a2-a6bd-d2093caedbc2)
+![image](https://github.com/muntzar313/SMART-PARKING-SYSTEM/assets/83008094/29991db2-e874-4a5b-9da7-79149868ec9e)
